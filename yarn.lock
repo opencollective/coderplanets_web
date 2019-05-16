@@ -3883,9 +3883,10 @@ eslint-plugin-jsx-a11y@6.1.1:
     has "^1.0.3"
     jsx-ast-utils "^2.0.1"
 
-eslint-plugin-prettier@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.npmjs.org/eslint-plugin-prettier/-/eslint-plugin-prettier-3.0.1.tgz#19d521e3981f69dd6d14f64aec8c6a6ac6eb0b0d"
+eslint-plugin-prettier@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-3.1.0.tgz#8695188f95daa93b0dc54b249347ca3b79c4686d"
+  integrity sha512-XWX2yVuwVNLOUhQijAkXz+rMPPoCr7WFiAl8ig6I7Xn+pPVhDhzg4DxHpmbeb0iqjO9UronEA3Tb09ChnFVHHA==
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
@@ -9474,9 +9475,10 @@ sentence-case@^2.1.0:
     no-case "^2.2.0"
     upper-case-first "^1.1.2"
 
-sentry-testkit@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.npmjs.org/sentry-testkit/-/sentry-testkit-2.1.0.tgz#d6e1426dd15b2ade18a5c47f55cd1430a52149f8"
+sentry-testkit@^2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/sentry-testkit/-/sentry-testkit-2.2.1.tgz#e4fa10c9747c231af498999353d053c0ce8d0a63"
+  integrity sha512-qCyTTdFQYds2v/SvMg7s/7tjY+puomlU7CGjXdo7l/1RhzdeNJx3hfhFBonhmBr4524cgKnIv5iUN2iBuaAv3w==
 
 serialize-javascript@1.6.1, serialize-javascript@^1.4.0:
   version "1.6.1"
