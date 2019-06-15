@@ -29,7 +29,6 @@ before_script:
 script:
   # - codecov
   - rm -rf .next
-  - node_modules
   - nvm exec 12.4.0 npm run build.ci
   - nvm exec 12.4.0 npm run test:ci
 
