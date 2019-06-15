@@ -7549,9 +7549,9 @@ next-seo@^1.9.0:
   version "1.11.1"
   resolved "https://registry.npmjs.org/next-seo/-/next-seo-1.11.1.tgz#fd17a522b84e3d21c367e5b54e801731c8c1c3ba"
 
-next-server@8.1.1-canary.52:
-  version "8.1.1-canary.52"
-  resolved "https://registry.npmjs.org/next-server/-/next-server-8.1.1-canary.52.tgz#852d27b218963ac55989c2d45d3880048b148c0c"
+next-server@8.1.1-canary.47:
+  version "8.1.1-canary.47"
+  resolved "https://registry.npmjs.org/next-server/-/next-server-8.1.1-canary.47.tgz#7beb485445c0b6b6688c189c69da8b471dff6afa"
   dependencies:
     amp-toolbox-optimizer "1.2.0-alpha.1"
     content-type "1.0.4"
@@ -7566,9 +7566,9 @@ next-server@8.1.1-canary.52:
     send "0.16.1"
     url "0.11.0"
 
-next@8.1.1-canary.52:
-  version "8.1.1-canary.52"
-  resolved "https://registry.npmjs.org/next/-/next-8.1.1-canary.52.tgz#27597c7bc74b40c119b79d1c0a89a756693644b5"
+next@8.1.1-canary.47:
+  version "8.1.1-canary.47"
+  resolved "https://registry.npmjs.org/next/-/next-8.1.1-canary.47.tgz#09399bf3060b235e8226793562519fbe6ea0d2b9"
   dependencies:
     "@babel/core" "7.4.5"
     "@babel/plugin-proposal-class-properties" "7.4.4"
@@ -7596,7 +7596,7 @@ next@8.1.1-canary.52:
     launch-editor "2.2.1"
     loader-utils "1.2.3"
     mkdirp "0.5.1"
-    next-server "8.1.1-canary.52"
+    next-server "8.1.1-canary.47"
     prop-types "15.7.2"
     prop-types-exact "1.2.0"
     react-error-overlay "5.1.6"
