@@ -857,11 +857,13 @@
   dependencies:
     "@f/map-obj" "^1.2.2"
 
-"@groupher/eslint-config-web@^1.0.0":
-  version "1.1.0"
-  resolved "https://registry.npmjs.org/@groupher/eslint-config-web/-/eslint-config-web-1.1.0.tgz#26f2611d84a997562956d1f3412d950165f178d8"
+"@groupher/eslint-config-web@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@groupher/eslint-config-web/-/eslint-config-web-1.1.2.tgz#794ba6eefc989dfa1d59838cde178d9d44f1b560"
+  integrity sha512-/0P9QDBYX5itz4qpJN0nyq5Eq99hwGhkxbofON6Qf3gqrpr1qabZSDkgaxh8Bm3B6eGkeAMa/ZhFlCT3thiuzQ==
   dependencies:
     babel-eslint "^10.0.2"
+    babel-plugin-module-resolver "^3.2.0"
     eslint-config-airbnb "^17.1.0"
     eslint-config-prettier "^5.0.0"
     eslint-import-resolver-babel-module "^5.1.0"
@@ -2164,9 +2166,10 @@ babel-plugin-jest-hoist@^23.2.0:
   version "23.2.0"
   resolved "https://registry.npmjs.org/babel-plugin-jest-hoist/-/babel-plugin-jest-hoist-23.2.0.tgz#e61fae05a1ca8801aadee57a6d66b8cefaf44167"
 
-babel-plugin-module-resolver@^3.1.2:
+babel-plugin-module-resolver@^3.1.2, babel-plugin-module-resolver@^3.2.0:
   version "3.2.0"
-  resolved "https://registry.npmjs.org/babel-plugin-module-resolver/-/babel-plugin-module-resolver-3.2.0.tgz#ddfa5e301e3b9aa12d852a9979f18b37881ff5a7"
+  resolved "https://registry.yarnpkg.com/babel-plugin-module-resolver/-/babel-plugin-module-resolver-3.2.0.tgz#ddfa5e301e3b9aa12d852a9979f18b37881ff5a7"
+  integrity sha512-tjR0GvSndzPew/Iayf4uICWZqjBwnlMWjSx6brryfQ81F9rxBVqwDJtFCV8oOs0+vJeefK9TmdZtkIFdFe1UnA==
   dependencies:
     find-babel-config "^1.1.0"
     glob "^7.1.2"
