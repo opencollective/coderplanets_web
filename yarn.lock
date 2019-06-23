@@ -9478,9 +9478,10 @@ react-trend@^1.2.4:
   dependencies:
     prop-types "^15.5.8"
 
-react-use@^9.0.0:
-  version "9.4.1"
-  resolved "https://registry.npmjs.org/react-use/-/react-use-9.4.1.tgz#876f96811b177d305a8db14e59fc31e17e5b11b2"
+react-use@^9.7.1:
+  version "9.7.1"
+  resolved "https://registry.yarnpkg.com/react-use/-/react-use-9.7.1.tgz#2ee7edab4cc60fee1b62f6666bbf693feb5dac8b"
+  integrity sha512-U1VTkN92zfy7gKcsxr9B+LQHUUswgfbtWwJlU9FJC8XrDcxWas16szHhBLQn290mEjerYCtsfnCJYWw7A91CxA==
   dependencies:
     copy-to-clipboard "^3.1.0"
     nano-css "^5.1.0"
