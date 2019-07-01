@@ -1114,9 +1114,10 @@
   version "15.7.1"
   resolved "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.1.tgz#f1a11e7babb0c3cad68100be381d1e064c68f1f6"
 
-"@types/ramda@^0.25.0":
-  version "0.25.0"
-  resolved "https://registry.npmjs.org/@types/ramda/-/ramda-0.25.0.tgz#f62d5a9f76b7bb40eb45cf69dac0ac548aca9222"
+"@types/ramda@^0.26.14":
+  version "0.26.14"
+  resolved "https://registry.yarnpkg.com/@types/ramda/-/ramda-0.26.14.tgz#3a6fb82b225ee0b2c8a9b3a657c9942445037d79"
+  integrity sha512-OKSReh+kGIPiLzYnQIdAtrdE0w1lW1dnTsdFtbVYEj8kWdYKpolF+bZAvHaNCiTq2C91iwGJ/7q81DOjRQOHrw==
 
 "@types/react-transition-group@^2.0.8":
   version "2.9.2"
