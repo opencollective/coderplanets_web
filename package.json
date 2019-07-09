@@ -144,7 +144,7 @@
     "commitizen": "3.0.7",
     "coveralls": "3.0.3",
     "cross-env": "^5.0.5",
-    "cypress": "^3.0.2",
+    "cypress": "^3.4.0",
     "cz-conventional-changelog": "^2.1.0",
     "dotenv": "6.2.0",
     "dotenv-webpack": "1.6.0",
